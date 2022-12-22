@@ -3,3 +3,16 @@
 2022/12/22 13:41:55 [ INFO] Git config user.email set to gogs@fake.local
 2022/12/22 13:41:55 [ INFO] Run mode: Production
 2022/12/22 13:41:55 [ INFO] Listen on http://0.0.0.0:7000
+2022/12/22 15:41:49 [ INFO] Pluralsight 0.12.10
+2022/12/22 15:41:49 [ INFO] Run mode: Production
+2022/12/22 15:41:49 [ INFO] Listen on http://0.0.0.0:7000
+2022/12/22 15:42:24 [ERROR] [...io/gogs/internal/context/repo.go:246 func1()] get tags: exit status 128 - fatal: not a git repository (or any of the parent directories): .git
+2022/12/22 15:42:45 [ERROR] [...io/gogs/internal/context/repo.go:246 func1()] get tags: exit status 128 - fatal: not a git repository (or any of the parent directories): .git
+2022/12/22 15:42:51 [ERROR] [...io/gogs/internal/context/repo.go:246 func1()] get tags: exit status 128 - fatal: not a git repository (or any of the parent directories): .git
+2022/12/22 15:43:03 [ INFO] Pluralsight 0.12.10
+2022/12/22 15:43:03 [ INFO] Run mode: Production
+2022/12/22 15:43:03 [ INFO] Listen on http://0.0.0.0:7000
+2022/12/22 15:43:09 [ERROR] [...io/gogs/internal/context/repo.go:246 func1()] get tags: exit status 128 - fatal: not a git repository (or any of the parent directories): .git
+2022/12/22 15:43:51 [ INFO] Pluralsight 0.12.10
+2022/12/22 15:43:51 [ INFO] Run mode: Production
+2022/12/22 15:43:51 [ INFO] Listen on http://0.0.0.0:7000
