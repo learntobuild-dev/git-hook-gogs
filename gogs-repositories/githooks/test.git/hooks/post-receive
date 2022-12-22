@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+"/home/nt-user/workspace/.gogs/gogs" hook --config='/home/nt-user/workspace/.gogs/custom/conf/app.ini' post-receive

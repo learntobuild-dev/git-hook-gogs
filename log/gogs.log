@@ -1,0 +1,5 @@
+2022/12/22 13:41:55 [ INFO] Pluralsight 0.12.10
+2022/12/22 13:41:55 [ INFO] Git config user.name set to Gogs
+2022/12/22 13:41:55 [ INFO] Git config user.email set to gogs@fake.local
+2022/12/22 13:41:55 [ INFO] Run mode: Production
+2022/12/22 13:41:55 [ INFO] Listen on http://0.0.0.0:7000
